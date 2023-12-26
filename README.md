@@ -1,2 +1,2 @@
 # Economic Aviation
-Cheap flight deals finder
+flight deals finder
